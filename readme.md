@@ -11,6 +11,9 @@ Note:
 
 Check the app.log file in the provided LOG_DIR directory. This is what the output of running the application must look like: node-app-output.png
 
+<details>
+    <summary>Commands:</summary>
+
 Make file executable with:
 
     chmod +x extended_install_and_run_with_log.sh
@@ -18,3 +21,4 @@ Make file executable with:
 Execute it with the desired log directory as a parameter:
 
     ./extended_install_and_run_with_log.sh log_ID
+</details>
