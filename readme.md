@@ -17,4 +17,4 @@ Make file executable with:
 
 Execute it with the desired log directory as a parameter:
 
-    ./extended_install_and_run_with_log.sh /path/to/your/log_directory 
+    ./extended_install_and_run_with_log.sh log_ID

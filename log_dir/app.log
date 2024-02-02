@@ -1,0 +1,7 @@
+successfully set LOG_DIR environment variable. Writing logs into /mnt/c/Users/nprks/IdeaProjects/n8prks-2.8_nodeAppWithLogDir/log_dir
+-----------------------------
+Logging into the app.log file
+Application started successfully using all the provided environment variables
+Node app will listen for any incoming connections
+This is the end of log entries
+-----------------------------
